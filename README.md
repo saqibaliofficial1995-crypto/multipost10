@@ -6,8 +6,8 @@ Fully cloud-based, autonomous YouTube upload pipeline and engagement system runn
 - **Channel Name:** Mazhar Iqbal
 - **Channel ID:** UCzjKGchOW5AQvp9lxCBz6Aw
 - **Google Account:** Guestp609@gmail.com
-- **GitHub Username:** guestp609-afk
-- **Repository:** guestp609-afk/multipost10 (Private)
+- **GitHub Username:** saqibaliofficial1995-crypto
+- **Repository:** saqibaliofficial1995-crypto/multipost10 (Public)
 - **Drive Inbox Folder ID:** 1YMi1rjJJyaeouuuBgljNKCX2P9_BaaeM (281 inbox videos)
 - **Drive Uploaded Folder ID:** 1XtSrqo-jiS1vdWKkIJs09rSaMlvBT1BE
 - **Schedule:** 3 uploads/day at 40 2,8,14 * * * UTC
